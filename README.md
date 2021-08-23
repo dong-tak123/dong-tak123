@@ -1,4 +1,4 @@
-### Hi there 👋
+![20200131_091912](https://user-images.githubusercontent.com/77623014/130437070-593248c0-cdd5-48ef-980b-745558f80e8e.jpg)
 
 <!--
 **dong-tak123/dong-tak123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
