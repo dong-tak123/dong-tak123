@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdong-tak123&count_bg=%2300D53B&title_bg=%23000000&icon=&icon_color=%23CF0303&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![20200131_091912](https://user-images.githubusercontent.com/77623014/130437070-593248c0-cdd5-48ef-980b-745558f80e8e.jpg)
 
 <!--
