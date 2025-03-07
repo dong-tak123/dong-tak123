@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdong-tak123&count_bg=%2300D53B&title_bg=%23000000&icon=&icon_color=%23CF0303&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![20200131_092043](https://user-images.githubusercontent.com/77623014/162443070-70e8bd69-caf4-43f6-9a51-a19f9286325d.jpg)
 
 <!--
 **dong-tak123/dong-tak123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
